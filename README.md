@@ -1,7 +1,7 @@
 # Project1
 
 # Clean Up Your Act, best ESG ETF's in 2020  
-https://github.com/matthouk/UWFinTechProjectOne/blob/main/ESGicon.png?raw=true
+![image](https://user-images.githubusercontent.com/74274975/111223338-3d030d00-859a-11eb-8693-bbd4dac586d5.png)
 
 
 ## Analysis provided by: 
